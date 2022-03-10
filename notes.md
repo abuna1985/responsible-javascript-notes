@@ -40,5 +40,10 @@ But Mr. Hofstadter defined _spexish_ and recognized that humans also exhibit sim
 
 Consider:
 
-- our attachment to best practices, even when they depreciate the user experience.
+- Our attachment to best practices, even when they depreciate the overall user experience.
 - We `npm install` packages without thinking about it and don't consider "_is there a better way than using a npm package?_"
+- We chase new tools in hopes to 10x our development productivity-even though jumping from new solution to new solution has its own dangerous productivity cost.
+
+### HOW MUCH JAVASCRIPT ARE WEB PAGES SENDING TO BROWSERS?
+
+The HTTP Archive provides a [State of JavaScript Report](https://httparchive.org/reports/state-of-javascript#bytesJs)
